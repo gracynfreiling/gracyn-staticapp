@@ -28,7 +28,8 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
-    },{
+    },
+    {
       "template": "bake-blog",
       "data": "blog",
       "array": "blogs",
